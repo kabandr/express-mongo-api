@@ -1,7 +1,7 @@
 {
   "name": "express-postgres-api",
   "version": "1.0.0",
-  "description": "A basic Express CRUD API with Postgres DB",
+  "description": "A basic Express CRUD API with MongoDB",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kabandr/express-postgres-api.git"
+    "url": "git+https://github.com/kabandr/express-mongo-api.git"
   },
   "keywords": [
     "express",
@@ -23,9 +23,9 @@
   "author": "Rene Kabanda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kabandr/express-postgres-api/issues"
+    "url": "https://github.com/kabandr/express-mongo-api/issues"
   },
-  "homepage": "https://github.com/kabandr/express-postgres-api#readme",
+  "homepage": "https://github.com/kabandr/express-mongo-api#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
