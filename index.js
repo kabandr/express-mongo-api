@@ -5,7 +5,7 @@ const router = require("./router");
 const mongoose = require("mongoose");
 require("dotenv").config();
 
-const port = process.env.PORT;
+const port = process.env.PORT || 4000;
 const db = process.env.MONGO_URI;
 
 const connect = async () => {
