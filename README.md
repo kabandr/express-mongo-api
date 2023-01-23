@@ -3,8 +3,8 @@
 ## What is this?
 
 An example of a basic Express API with:
-- [ ] User registration / Login.
-- [ ] JWT authentication and authorization.
+- [x] User registration / Login / Logout / Delete / Update.
+- [x] JWT authentication and authorization.
 - [x] CRUD operations. 
 - [ ] OpenAPI Spec API documentation.
 - [ ] Docker Compose file.
